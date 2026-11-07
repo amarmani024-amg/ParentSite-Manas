@@ -1,0 +1,6 @@
+{
+  "name": "The Gateway",
+  "description": "A five-part surprise gateway and mystery hub built for a brilliant engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
